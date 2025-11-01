@@ -48,9 +48,11 @@ This project demonstrates the use of **data preprocessing**, **feature engineeri
 
 ## 📂 Project Structure
 
-├── Money_Laundering_Detection_System.ipynb # Main Jupyter Notebook
-├── README.md                               # Project documentation
-├── requirements.txt                        # List of dependencies
+Money_Laundering_Detection_System/
+│
+├── Money_Laundering_Detection_System.ipynb   # Your uploaded Jupyter notebook
+├── README.md                                 # Detailed project documentation
+├── requirements.txt                          # Dependencies list
 
 ---
 
