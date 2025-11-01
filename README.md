@@ -45,5 +45,3 @@ This project demonstrates the use of **data preprocessing**, **feature engineeri
 | Version Control | Git & GitHub |
 
 ---
-
-## 📂 Project Structure
