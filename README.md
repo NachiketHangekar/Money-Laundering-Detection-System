@@ -45,3 +45,35 @@ This project demonstrates the use of **data preprocessing**, **feature engineeri
 | Version Control | Git & GitHub |
 
 ---
+
+## 📂 Project Structure
+
+├── Money_Laundering_Detection_System.ipynb # Main Jupyter Notebook
+├── README.md                               # Project documentation
+├── requirements.txt                        # List of dependencies
+
+---
+
+##🚀 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/Money_Laundering_Detection_System.git
+   cd Money_Laundering_Detection_System
+   ```
+2. Install dependencies:
+   pip install -r requirements.txt
+   
+3. Open the Jupyter Notebook:
+   jupyter notebook Money_Laundering_Detection_System.ipynb
+
+4. Run all cells sequentially to train and test the model.
+
+---
+
+## Author
+
+Nachiket Hangekar
+🎓 AIML Engineering Student, Sanjivani University
+💡 Passionate about AI, Machine Learning, and FinTech innovations.
+📫 Connect on www.linkedin.com/in/nachiket-hangekar-b1880128b
