@@ -76,4 +76,6 @@ Money_Laundering_Detection_System/
 ## Author
 
 Nachiket Hangekar
-🎓 AIML Engineering Student, Sanjivani University                                                                                       💡 Passionate about AI, Machine Learning, and FinTech innovations.                                                                      📫 Connect on www.linkedin.com/in/nachiket-hangekar-b1880128b
+🎓 AIML Engineering Student, Sanjivani University
+💡 Passionate about AI, Machine Learning, and FinTech innovations.
+📫 Connect on www.linkedin.com/in/nachiket-hangekar-b1880128b
