@@ -60,7 +60,7 @@ Money_Laundering_Detection_System/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Money_Laundering_Detection_System.git
+   git clone https://github.com/NachiketHangekar/Money_Laundering_Detection_System.git
    cd Money_Laundering_Detection_System
    ```
 2. Install dependencies:
