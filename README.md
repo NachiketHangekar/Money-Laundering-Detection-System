@@ -50,9 +50,9 @@ This project demonstrates the use of **data preprocessing**, **feature engineeri
 
 Money_Laundering_Detection_System/
 │
-├── Money_Laundering_Detection_System.ipynb
-├── requirements.txt
-└── README.md
+├── Money_Laundering_Detection_System.ipynb   # Main Jupyter Notebook containing the full project workflow
+├── requirements.txt                          # List of Python libraries and dependencies
+└── README.md                                 # Detailed project documentation
 
 ---
 
